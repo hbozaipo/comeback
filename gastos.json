@@ -1,0 +1,37 @@
+[
+    {
+        "descricao": "areia gatos mar\u00e7o",
+        "valor": 74.21,
+        "categoria": "pet"
+    },
+    {
+        "descricao": "ra\u00e7\u00e3o gatos mar\u00e7o 1 de 2",
+        "valor": 121.28,
+        "categoria": "pet"
+    },
+    {
+        "descricao": "bettlejuice com a iza",
+        "valor": 360.0,
+        "categoria": "fun"
+    },
+    {
+        "descricao": "vivo mar\u00e7o",
+        "valor": 184.24,
+        "categoria": "telefonia"
+    },
+    {
+        "descricao": "cartao de credito",
+        "valor": 899.31,
+        "categoria": "credito"
+    },
+    {
+        "descricao": "expo ney mis",
+        "valor": 17.5,
+        "categoria": "fun"
+    },
+    {
+        "descricao": "luz",
+        "valor": 123.0,
+        "categoria": "luz"
+    }
+]
