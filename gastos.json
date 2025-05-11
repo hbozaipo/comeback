@@ -18,20 +18,5 @@
         "descricao": "vivo mar\u00e7o",
         "valor": 184.24,
         "categoria": "telefonia"
-    },
-    {
-        "descricao": "cartao de credito",
-        "valor": 899.31,
-        "categoria": "credito"
-    },
-    {
-        "descricao": "expo ney mis",
-        "valor": 17.5,
-        "categoria": "fun"
-    },
-    {
-        "descricao": "luz",
-        "valor": 123.0,
-        "categoria": "luz"
     }
 ]
